@@ -1,0 +1,8 @@
+[
+  {"nome": "Ana", "idade": 31, "cidade": "Recife"},
+  {"nome": "Bruno", "idade": 25, "cidade": "Curitiba"},
+  {"nome": "Carla", "idade": 42, "cidade": "Manaus"},
+  {"nome": "Diego", "idade": 37, "cidade": "Porto Alegre"},
+  {"nome": "Elisa", "idade": 29, "cidade": "Salvador"},
+  {"nome": "Fábio", "idade": 51, "cidade": "Belo Horizonte"}
+]

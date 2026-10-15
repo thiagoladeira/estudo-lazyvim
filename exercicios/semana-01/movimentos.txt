@@ -1,0 +1,17 @@
+Linha 1: vá ao fim desta linha com $ e volte ao início com 0.
+Linha 2: pule palavra por palavra com w, depois volte com b.
+Linha 3: use fX para pular até o X nesta linha, depois ; para o próximo X.
+Linha 4: apague a palavra ERRADO com dw ou diw.  ERRADO
+Linha 5: troque "azul" por "verde" com ci" -> "azul"
+Linha 6: apague tudo dentro dos parênteses com di( -> (isto aqui sai inteiro)
+Linha 7: posicione no parêntese e pule para o par com % -> (a (b (c) b) a)
+Linha 8: duplique esta linha com yyp.
+Linha 9: apague esta linha com dd e desfaça com u.
+
+Parágrafo A: use { e } para pular entre parágrafos.
+Ele tem duas linhas.
+
+Parágrafo B: apague este parágrafo inteiro com dap.
+Também tem duas linhas.
+
+Linha final: vá ao topo com gg e volte aqui com G.
